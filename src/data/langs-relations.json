@@ -1,0 +1,331 @@
+{
+  "nodes": [
+    {
+      "id": "Latin",
+      "group": 9
+    },
+    {
+      "id": "Classical latin",
+      "group": 9,
+      "p": "Latin"
+    },
+    {
+      "id": "Vulgar latin",
+      "group": 9,
+      "p": "Latin"
+    },
+
+    {
+      "id": "African Romance",
+      "group": 9,
+      "p": "Vulgar latin"
+    },
+
+    {
+      "id": "CONTINENTAL",
+      "group": 4,
+      "p": "Vulgar latin"
+    },
+    {
+      "id": "ISLAND",
+      "group": 4,
+      "p": "Vulgar latin"
+    },
+
+    {
+      "id": "Old corsican",
+      "group": 9,
+      "p": "ISLAND"
+    },
+    {
+      "id": "Sardinian",
+      "group": 10,
+      "p": "ISLAND"
+    },
+
+    {
+      "id": "WESTERN",
+      "group": 4,
+      "p": "CONTINENTAL"
+    },
+    
+    {
+      "id": "EASTERN",
+      "group": 4,
+      "p": "CONTINENTAL"
+    },
+
+    {
+      "id": "IBERO",
+      "group": 4,
+      "p": "WESTERN"
+    },
+    {
+      "id": "Spanish",
+      "group": 10,
+      "p": "IBERO"
+    },
+    {
+      "id": "Portuguese",
+      "group": 10,
+      "p": "IBERO"
+    },
+    {
+      "id": "Judaeo-Portuguese",
+      "group": 9,
+      "p": "IBERO"
+    },
+    {
+      "id": "Galician",
+      "group": 10,
+      "p": "IBERO"
+    },
+    {
+      "id": "Mirandese",
+      "group": 10,
+      "p": "IBERO"
+    },
+    {
+      "id": "Asturian",
+      "group": 10,
+      "p": "IBERO"
+    },
+    {
+      "id": "Leonese",
+      "group": 10,
+      "p": "IBERO"
+    },
+    {
+      "id": "Aragonese",
+      "group": 10,
+      "p": "IBERO"
+    },
+    {
+      "id": "Judaeo-Aragonese",
+      "group": 9,
+      "p": "IBERO"
+    },
+    {
+      "id": "Mozarabic",
+      "group": 9,
+      "p": "IBERO"
+    },
+    {
+      "id": "Ladino",
+      "group": 10,
+      "p": "IBERO"
+    },
+
+    {
+      "id": "OCCITANO",
+      "group": 4,
+      "p": "WESTERN"
+    },
+    {
+      "id": "Catalan",
+      "group": 10,
+      "p": "OCCITANO"
+    },
+    {
+      "id": "Judaeo-Catalan",
+      "group": 9,
+      "p": "OCCITANO"
+    },
+    {
+      "id": "Valencian",
+      "group": 10,
+      "p": "OCCITANO"
+    },
+    {
+      "id": "Occitan",
+      "group": 10,
+      "p": "OCCITANO"
+    },
+    {
+      "id": "Gascon",
+      "group": 10,
+      "p": "OCCITANO"
+    },
+    {
+      "id": "Shuadit",
+      "group": 9,
+      "p": "OCCITANO"
+    },
+    {
+      "id": "Zarphatic",
+      "group": 9,
+      "p": "OCCITANO"
+    },
+
+    {
+      "id": "GALLO",
+      "group": 4,
+      "p": "WESTERN"
+    },
+    {
+      "id": "French",
+      "group": 10,
+      "p": "GALLO"
+    },
+    {
+      "id": "Moselle Romance",
+      "group": 9,
+      "p": "GALLO"
+    },
+    {
+      "id": "Anglo-Norman",
+      "group": 9,
+      "p": "GALLO"
+    },
+    {
+      "id": "Auregnais",
+      "group": 9,
+      "p": "GALLO"
+    },
+    {
+      "id": "Brirish Latin",
+      "group": 9,
+      "p": "GALLO"
+    },
+    {
+      "id": "Franco-Provençal",
+      "group": 10,
+      "p": "GALLO"
+    },
+
+    {
+      "id": "NORTH",
+      "group": 4,
+      "p": "ITALO-DALMATIAN"
+    },
+    {
+      "id": "Romansh",
+      "group": 10,
+      "p": "NORTH"
+    },
+    {
+      "id": "Ladin",
+      "group": 10,
+      "p": "NORTH"
+    },
+    {
+      "id": "Friulian",
+      "group": 10,
+      "p": "NORTH"
+    },
+
+    {
+      "id": "GALLO-ITALIC",
+      "group": 4,
+      "p": "WESTERN"
+    },
+    {
+      "id": "Piedmontese",
+      "group": 10,
+      "p": "GALLO-ITALIC"
+    },
+    {
+      "id": "Ligurian",
+      "group": 10,
+      "p": "GALLO-ITALIC"
+    },
+    {
+      "id": "Lombard",
+      "group": 10,
+      "p": "GALLO-ITALIC"
+    },
+    {
+      "id": "Emilian-Romagnol",
+      "group": 10,
+      "p": "GALLO-ITALIC"
+    },
+
+    {
+      "id": "ITALO-DALMATIAN",
+      "group": 4,
+      "p": "WESTERN"
+    },
+    {
+      "id": "SOUTH",
+      "group": 4,
+      "p": "ITALO-DALMATIAN"
+    },
+
+    {
+      "id": "Italian",
+      "group": 10,
+      "p": "SOUTH"
+    },
+    {
+      "id": "Tuscan",
+      "group": 10,
+      "p": "SOUTH"
+    },
+    {
+      "id": "Romanesco",
+      "group": 10,
+      "p": "SOUTH"
+    },
+    {
+      "id": "Corsican",
+      "group": 10,
+      "p": "SOUTH"
+    },
+    {
+      "id": "Sassarese",
+      "group": 10,
+      "p": "SOUTH"
+    },
+    {
+      "id": "Dalmatian",
+      "group": 9,
+      "p": "SOUTH"
+    },
+    {
+      "id": "Sicilian",
+      "group": 10,
+      "p": "SOUTH"
+    },
+    {
+      "id": "Neapolitan",
+      "group": 10,
+      "p": "SOUTH"
+    },
+    {
+      "id": "Venetian",
+      "group": 10,
+      "p": "SOUTH"
+    },
+    {
+      "id": "Istriot",
+      "group": 10,
+      "p": "SOUTH"
+    },
+
+    {
+      "id": "Romanian",
+      "group": 10,
+      "p": "EASTERN"
+    },
+    {
+      "id": "Istro-Romanian",
+      "group": 10,
+      "p": "EASTERN"
+    },
+    {
+      "id": "Aromanian",
+      "group": 10,
+      "p": "EASTERN"
+    },
+    {
+      "id": "Megleno-Romanian",
+      "group": 10,
+      "p": "EASTERN"
+    },
+    {
+      "id": "Pannonian Romance",
+      "group": 9,
+      "p": "EASTERN"
+    }
+  ]
+}
