@@ -4,8 +4,6 @@ D3.js force layout with human languages data
 
 Demo: http://www.alotropico.com/projects/romance-languages/
 
-![preview](https://raw.githubusercontent.com/alotropico/languages-visualizations/master/data/preview.png)
-
 #### Data: ####
 * Romance languages
 
@@ -15,3 +13,7 @@ Demo: http://www.alotropico.com/projects/romance-languages/
 #### By: ####
 
 * [@alotropico](http://alotropico.com)
+
+#### Preview: ####
+
+![preview](https://raw.githubusercontent.com/alotropico/languages-visualizations/master/data/preview.png)
