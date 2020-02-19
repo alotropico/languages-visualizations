@@ -1,3 +1,0 @@
-export function data(x, y) {
-  return 'RETURN';
-}
