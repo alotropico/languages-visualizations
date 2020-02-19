@@ -29,7 +29,7 @@ function setParentsValue(graph, d) {
   }
 }
 
-d3.json("./src/data/langs-relations.json").then(function(graph) {
+d3.json("./data/langs-relations.json").then(function(graph) {
   init(graph);
 });
 
@@ -76,13 +76,17 @@ function init(graph){
     .force("link", d3.forceLink(label.links).distance(0).strength(2));
 
   var graphLayout = d3.forceSimulation(graph.nodes)
-    .force("charge", d3.forceManyBody().strength(-3000))
-    .force("center", d3.forceCenter(width / 2, height / 2))
+    .force("charge", d3.forceManyBody().strength(function(d, i){
+      return d.hasOwnProperty('value') ? -(d.value / maxChilds) * 6000 - 3000 : -3000
+    }))
+    //.force("center", d3.forceCenter(width / 2, height / 2))
     .force("x", d3.forceX(width / 2).strength(1))
     .force("y", d3.forceY(height / 2).strength(1))
     .force("link", d3.forceLink(graph.links).id(function(d) {
       return d.id;
-    }).distance(50).strength(1))
+    })
+    .distance(100)
+    .strength(1))
     .on("tick", ticked);
 
   var adjlist = [];
@@ -96,15 +100,14 @@ function init(graph){
     return a == b || adjlist[a + "-" + b];
   }
 
-
   var svg = d3.select("#viz").attr("width", width).attr("height", height);
   var container = svg.append("g");
 
-  // svg.call(
-  //     d3.zoom()
-  //         .scaleExtent([.1, 4])
-  //         .on("zoom", function() { container.attr("transform", d3.event.transform); })
-  // );
+    svg.call(
+      d3.zoom()
+          .scaleExtent([.1, 4])
+          .on("zoom", function() { container.attr("transform", d3.event.transform); })
+  );
 
   var link = container.append("g").attr("class", "links")
     .selectAll("line")
@@ -129,9 +132,8 @@ function init(graph){
   container.selectAll("circle").filter(function(d, i) {
     return i == 0
   })
-  //   .classed("fixed", d.fixed = true);
 
-  node.on("mouseover", focus).on("mouseout", unfocus);
+  //node.on("mouseover", focus).on("mouseout", unfocus);
 
   node.call(
     d3.drag()
@@ -155,7 +157,7 @@ function init(graph){
     })
     .style("pointer-events", "none"); // to prevent mouseover/drag capture
 
-  node.on("mouseover", focus).on("mouseout", unfocus);
+  //node.on("mouseover", focus).on("mouseout", unfocus);
 
   function ticked() {
 
@@ -164,24 +166,9 @@ function init(graph){
 
     labelLayout.alphaTarget(0.3).restart();
     labelNode.each(function(d, i) {
-      // if(i % 2 == 0) {
       var b = this.getBBox();
-
       d.x = d.node.x - b.width / 2;
       d.y = d.node.y + b.height / 4;
-      // } else {
-      //     var b = this.getBBox();
-
-      //     var diffX = d.x - d.node.x;
-      //     var diffY = d.y - d.node.y;
-
-      //     var dist = Math.sqrt(diffX * diffX + diffY * diffY);
-
-      //     var shiftX = b.width * (diffX - dist) / (dist * 2);
-      //     shiftX = Math.max(-b.width, Math.min(0, shiftX));
-      //     var shiftY = 16;
-      //     this.setAttribute("transform", "translate(" + shiftX + "," + shiftY + ")");
-      // }
     });
     labelNode.call(updateNode);
 
@@ -191,25 +178,6 @@ function init(graph){
     if(isFinite(x))
       return x;
     return 0;
-  }
-
-  function focus(d) {
-    //var index = d3.select(d3.event.target).datum().index;
-    // node.style("opacity", function(o) {
-    //     return neigh(index, o.index) ? 1 : 0.1;
-    // });
-    // labelNode.attr("display", function(o) {
-    //   return neigh(index, o.node.index) ? "block": "none";
-    // });
-    // link.style("opacity", function(o) {
-    //     return o.source.index == index || o.target.index == index ? 1 : 0.1;
-    // });
-  }
-
-  function unfocus() {
-    // labelNode.attr("display", "block");
-    // node.style("opacity", 1);
-    // link.style("opacity", 1);
   }
 
   function updateLink(link) {

@@ -95,13 +95,6 @@ module.exports = merge(common, {
         })
       ]
     }),
-    new FaviconsWebpackPlugin({
-      logo: './src/images/favicon.svg',
-      icons: {
-        twitter: true,
-        windows: true
-      }
-    }),
     new OfflinePlugin()
   ],
   output: {

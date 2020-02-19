@@ -1,7 +1,7 @@
 {
-  "name": "threejs-tests",
+  "name": "language-visualizations",
   "version": "1.0.0",
-  "description": "Based on https://github.com/tr1s/tris-webpack-boilerplate.",
+  "description": "D3.js force layout with human languages data",
   "private": true,
   "scripts": {
     "start": "webpack-dev-server --open --config webpack.dev.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alotropico/threejs-tests"
+    "url": "https://github.com/alotropico/languages-visualizations"
   },
   "keywords": [],
   "author": "alotropico",
@@ -31,6 +31,7 @@
     "html-webpack-plugin": "^3.2.0",
     "imagemin-mozjpeg": "^8.0.0",
     "imagemin-webpack-plugin": "^2.4.2",
+    "json-loader": "^0.5.7",
     "mini-css-extract-plugin": "^0.8.0",
     "node-sass": "^4.12.0",
     "offline-plugin": "^5.0.7",
