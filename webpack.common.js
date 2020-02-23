@@ -10,8 +10,7 @@ const WriteFilePlugin = require('write-file-webpack-plugin');
 module.exports = {
   mode: 'development',
   entry: {
-    main: './src/index.js',
-    vendor: './src/vendor.js'
+    main: './src/index.js'
   },
   module: {
     rules: [
