@@ -7,10 +7,10 @@ var height = window.innerHeight;
 var color = d3.scaleOrdinal(d3.schemePastel1);
 var maxChilds = 0;
 
-function setParentsValue(graph, p) {
+function setParentsValue(graph, d) {
   var result = graph.nodes.findIndex(obj => {
-    return obj.id === p
-  });
+    return obj.id === d.p
+  })
 
   if(result > -1) {
 
@@ -29,38 +29,26 @@ function setParentsValue(graph, p) {
   }
 }
 
+d3.json("./data/langs-relations.json").then(function(graph) {
+  init(graph);
+});
+
 function init(graph){
 
   let links = [];
 
-  // graph.nodes[0].fx = width / 4;
-  // graph.nodes[0].fy = height / 4;
-
-  console.log(graph.nodes);
+  graph.nodes[0].fx = width / 4;
+  graph.nodes[0].fy = height / 4;
 
   graph.nodes.forEach(function(d, i) {
 
-    //setParentsValue(graph, d);
+    setParentsValue(graph, d);
 
-    if(d.hasOwnProperty('parents')){
-      for(let i=0; i<d.parents.length; i++){
-        let p = d.parents[i];
-
-        setParentsValue(graph, p);
-
-        var result = graph.nodes.findIndex(obj => {
-          return obj.id === p
-        });
-
-        if(result > -1) {
-          links.push({
-            "source": p,
-            "target": d.id,
-            "value": Math.ceil(Math.random()*10)
-          });
-        }
-      }
-    }
+    links.push({
+      "source": (d.hasOwnProperty('p') ? d.p : d.id),
+      "target": d.id,
+      "value": Math.ceil(Math.random()*10)
+    });
   });
 
   graph.links = links;
@@ -84,7 +72,7 @@ function init(graph){
   });
 
   var labelLayout = d3.forceSimulation(label.nodes)
-    .force("charge", d3.forceManyBody().strength(-20))
+    .force("charge", d3.forceManyBody().strength(-50))
     .force("link", d3.forceLink(label.links).distance(0).strength(2));
 
   var graphLayout = d3.forceSimulation(graph.nodes)
@@ -92,8 +80,8 @@ function init(graph){
       return d.hasOwnProperty('value') ? -(d.value / maxChilds) * 6000 - 3000 : -3000
     }))
     //.force("center", d3.forceCenter(width / 2, height / 2))
-    .force("x", d3.forceX(width / 2).strength(1.7))
-    .force("y", d3.forceY(height / 2).strength(1.7))
+    .force("x", d3.forceX(width / 2).strength(1))
+    .force("y", d3.forceY(height / 2).strength(1))
     .force("link", d3.forceLink(graph.links).id(function(d) {
       return d.id;
     })
@@ -120,12 +108,6 @@ function init(graph){
           .scaleExtent([.1, 4])
           .on("zoom", function() { container.attr("transform", d3.event.transform); })
   );
-
-  function parseLabel(str){
-    return str.replace(/\s?lenguas?\s?/ig, '')
-      .replace(/\s?idiomas?\s?/ig, '')
-      .replace(/\s?languages?\s?/ig, '');
-  }
 
   var link = container.append("g").attr("class", "links")
     .selectAll("line")
@@ -166,12 +148,12 @@ function init(graph){
     .enter()
     .append("text")
     .text(function(d, i) {
-      return i % 2 == 0 ? "" : parseLabel(d.node.label);
+      return i % 2 == 0 ? "" : d.node.id;
     })
     .style("fill", "#111")
     .style("font-family", "Arial")
     .style("font-size", function(d, i) {
-      return 12;//d.node.hasOwnProperty('value') && d.node['value'] >= maxChilds ? 24 : 12
+      return d.node.hasOwnProperty('value') && d.node['value'] >= maxChilds ? 24 : 12
     })
     .style("pointer-events", "none"); // to prevent mouseover/drag capture
 
@@ -237,8 +219,4 @@ function init(graph){
     d.fy = null;
   }
 
-}
-
-export function view(data){
-  init(data);
 }

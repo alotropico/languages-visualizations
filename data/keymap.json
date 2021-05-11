@@ -1,0 +1,2064 @@
+{
+	"Q34770": {
+		"name": "Language",
+		"nombre": "Lengua"
+	},
+	"Q1288568": {
+		"name": "Modern language",
+		"nombre": "Lengua viva"
+	},
+	"Q539808": {
+		"name": "Subject–object–verb",
+		"nombre": "Sujeto objeto verbo"
+	},
+	"Q8229": {
+		"name": "Latin script",
+		"nombre": "Alfabeto latino"
+	},
+	"Q257634": {
+		"name": "Ge'ez script",
+		"nombre": "Escritura etíope"
+	},
+	"Q83365347": {
+		"name": "Definitely endangered language"
+	},
+	"Q171263": {
+		"name": "Agglutinative language",
+		"nombre": "Lengua aglutinante"
+	},
+	"Q8209": {
+		"name": "Cyrillic script",
+		"nombre": "Alfabeto cirílico"
+	},
+	"Q41710": {
+		"name": "Ethnic group",
+		"nombre": "Etnia"
+	},
+	"Q83365345": {
+		"name": "Vulnerable language"
+	},
+	"Q862156": {
+		"name": "Ergative–absolutive language",
+		"nombre": "Lengua ergativa"
+	},
+	"Q48641": {
+		"name": "Polysynthetic language",
+		"nombre": "Lengua polisintética"
+	},
+	"Q651641": {
+		"name": "Subject–verb–object",
+		"nombre": "Sujeto verbo objeto"
+	},
+	"Q83365366": {
+		"name": "Severely endangered language"
+	},
+	"Q513408": {
+		"name": "Nilotic languages",
+		"nombre": "Lenguas nilóticas"
+	},
+	"Q83365404": {
+		"name": "Critically endangered language"
+	},
+	"Q251749": {
+		"name": "Pueblo",
+		"nombre": "Pueblo"
+	},
+	"Q34228": {
+		"name": "Sign language",
+		"nombre": "Lengua de señas"
+	},
+	"Q33384": {
+		"name": "Dialect",
+		"nombre": "Dialecto"
+	},
+	"Q1516105": {
+		"name": "V2 word order",
+		"nombre": "Lengua V2"
+	},
+	"Q7888721": {
+		"name": "Stress-timed language",
+		"nombre": "Lengua acentual"
+	},
+	"Q318917": {
+		"name": "Fusional language",
+		"nombre": "Lengua fusionante"
+	},
+	"Q33648": {
+		"name": "Language isolate",
+		"nombre": "Lengua aislada"
+	},
+	"Q11282355": {
+		"name": "Ainu orthography"
+	},
+	"Q5": {
+		"name": "Human",
+		"nombre": "Ser humano"
+	},
+	"Q45762": {
+		"name": "Dead language",
+		"nombre": "Lengua muerta"
+	},
+	"Q38058796": {
+		"name": "Extinct language",
+		"nombre": "Lengua extinta"
+	},
+	"Q4085712": {
+		"name": "Unwritten language",
+		"nombre": "Lengua no escrita"
+	},
+	"Q152559": {
+		"name": "Macrolanguage",
+		"nombre": "Macrolengua"
+	},
+	"Q191328": {
+		"name": "Tonal language",
+		"nombre": "Lengua tonal"
+	},
+	"Q2891042": {
+		"name": "Alas language"
+	},
+	"Q4167410": {
+		"name": "Wikimedia disambiguation page",
+		"nombre": "Página de desambiguación de Wikimedia"
+	},
+	"Q892484": {
+		"name": "Direct–inverse language"
+	},
+	"Q2479183": {
+		"name": "Canadian Aboriginal syllabics",
+		"nombre": "Silabarios indígenas canadienses"
+	},
+	"Q4532731": {
+		"name": "Eskimo alphabet"
+	},
+	"Q215844": {
+		"name": "Dialect continuum",
+		"nombre": "Continuo dialectal"
+	},
+	"Q4784071": {
+		"name": "Arandic languages",
+		"nombre": "Lenguas arándicas"
+	},
+	"Q1289426": {
+		"name": "County of China",
+		"nombre": "Condado de China"
+	},
+	"Q34049": {
+		"name": "Semitic languages",
+		"nombre": "Lenguas semíticas"
+	},
+	"Q568140": {
+		"name": "Verb–object–subject",
+		"nombre": "Verbo objeto sujeto"
+	},
+	"Q33289": {
+		"name": "Creole language",
+		"nombre": "Lengua criolla"
+	},
+	"Q25295": {
+		"name": "Language family",
+		"nombre": "Familia de lenguas"
+	},
+	"Q1417850": {
+		"name": "Object–subject–verb",
+		"nombre": "Objeto sujeto verbo"
+	},
+	"Q8196": {
+		"name": "Arabic alphabet",
+		"nombre": "Alfabeto árabe"
+	},
+	"Q33742": {
+		"name": "Natural language",
+		"nombre": "Lengua natural"
+	},
+	"Q61566": {
+		"name": "Minority language",
+		"nombre": "Lengua minoritaria"
+	},
+	"Q399495": {
+		"name": "Standard language",
+		"nombre": "Lengua estándar"
+	},
+	"Q166097": {
+		"name": "Verb–subject–object",
+		"nombre": "Verbo sujeto objeto"
+	},
+	"Q180688": {
+		"name": "Bedouin",
+		"nombre": "Beduino"
+	},
+	"Q178435": {
+		"name": "Nominative–accusative language",
+		"nombre": "Lengua nominativo-acusativa"
+	},
+	"Q1828555": {
+		"name": "Arabic script",
+		"nombre": "Escritura árabe"
+	},
+	"Q2339258": {
+		"name": "Arabic chat alphabet",
+		"nombre": "Alfabeto de chat árabe"
+	},
+	"Q854968": {
+		"name": "Burmese alphabet",
+		"nombre": "Alfabeto birmano"
+	},
+	"Q133311": {
+		"name": "Tribe",
+		"nombre": "Tribu"
+	},
+	"Q1479328": {
+		"name": "Indigenous peoples of South America",
+		"nombre": "Pueblos indígenas de Sudamérica"
+	},
+	"Q659103": {
+		"name": "Commune of Romania",
+		"nombre": "Comuna de Rumania"
+	},
+	"Q8785": {
+		"name": "Armenian",
+		"nombre": "Armenio"
+	},
+	"Q11932": {
+		"name": "Armenian alphabet",
+		"nombre": "Alfabeto armenio"
+	},
+	"Q101352": {
+		"name": "Family name",
+		"nombre": "Apellido"
+	},
+	"Q191272": {
+		"name": "Assamese alphabet",
+		"nombre": "Alfabeto asamés"
+	},
+	"Q4316069": {
+		"name": "Undeciphered language",
+		"nombre": "Lengua no descifrada"
+	},
+	"Q51739": {
+		"name": "Indigenous languages of the Americas",
+		"nombre": "Lenguas indígenas de América"
+	},
+	"Q23442": {
+		"name": "Island",
+		"nombre": "Isla"
+	},
+	"Q2805523": {
+		"name": "British, Australian and New Zealand Sign Languages",
+		"nombre": "Lengua de signos de Nueva Zelanda, Australia y Gran Bretaña"
+	},
+	"Q4055408": {
+		"name": "Avar alphabet"
+	},
+	"Q7888569": {
+		"name": "Syllabic language",
+		"nombre": "Lengua silábica"
+	},
+	"Q38592": {
+		"name": "Devanagari",
+		"nombre": "Devanagari"
+	},
+	"Q744068": {
+		"name": "Persian alphabet",
+		"nombre": "Alfabeto persa"
+	},
+	"Q4167836": {
+		"name": "Wikimedia category",
+		"nombre": "Categoría de Wikimedia"
+	},
+	"Q532": {
+		"name": "Village",
+		"nombre": "Pueblo"
+	},
+	"Q26803": {
+		"name": "Tamil script",
+		"nombre": "Alfabeto tamil"
+	},
+	"Q3297091": {
+		"name": "Masaba"
+	},
+	"Q1062587": {
+		"name": "N'Ko",
+		"nombre": "Alfabeto N'Ko"
+	},
+	"Q806024": {
+		"name": "Bamum script",
+		"nombre": "Escritura Shümom"
+	},
+	"Q747074": {
+		"name": "Comune of Italy",
+		"nombre": "Comuna de Italia"
+	},
+	"Q515": {
+		"name": "City",
+		"nombre": "Ciudad"
+	},
+	"Q1549591": {
+		"name": "Big city",
+		"nombre": "Gran ciudad"
+	},
+	"Q989463": {
+		"name": "Object–verb–subject",
+		"nombre": "Objeto verbo sujeto"
+	},
+	"Q48612": {
+		"name": "Synthetic language",
+		"nombre": "Lengua sintética"
+	},
+	"Q791275": {
+		"name": "Basque alphabet",
+		"nombre": "Alfabeto vasco"
+	},
+	"Q484170": {
+		"name": "Commune of France",
+		"nombre": "Comuna de Francia"
+	},
+	"Q792216": {
+		"name": "Belarusian Cyrillic alphabet",
+		"nombre": "Alfabeto bielorruso"
+	},
+	"Q486972": {
+		"name": "Human settlement",
+		"nombre": "Lugar poblado"
+	},
+	"Q756802": {
+		"name": "Bengali alphabet",
+		"nombre": "Alfabeto bengalí"
+	},
+	"Q17049681": {
+		"name": "Bengali Braille"
+	},
+	"Q392316": {
+		"name": "First Nations",
+		"nombre": "Naciones Originarias de Canadá"
+	},
+	"Q21070568": {
+		"name": "Human who may be fictional",
+		"nombre": "Ser humano que podría ser de ficción"
+	},
+	"Q1424581": {
+		"name": "Schouten Islands",
+		"nombre": "Islas Schouten"
+	},
+	"Q3250615": {
+		"name": "Province of Oman",
+		"nombre": "Provincia de Omán"
+	},
+	"Q170355": {
+		"name": "Indigenous Australians",
+		"nombre": "Aborigen australiano"
+	},
+	"Q1093829": {
+		"name": "City of the United States",
+		"nombre": "Ciudad de Estados Unidos"
+	},
+	"Q3199141": {
+		"name": "City of Indonesia"
+	},
+	"Q49297": {
+		"name": "Indigenous peoples of the United States",
+		"nombre": "Pueblos nativos de los Estados Unidos"
+	},
+	"Q4536543": {
+		"name": "Pluricentric language variant",
+		"nombre": "Variante lingüística"
+	},
+	"Q33129605": {
+		"name": "Free-order language",
+		"nombre": "Lengua de orden libre"
+	},
+	"Q145625": {
+		"name": "Glagolitic alphabet",
+		"nombre": "Alfabeto glagolítico"
+	},
+	"Q894350": {
+		"name": "Bosnian Cyrillic",
+		"nombre": "Alfabeto cirílico bosniaco"
+	},
+	"Q3393238": {
+		"name": "Arebica"
+	},
+	"Q754989": {
+		"name": "Gaj's Latin alphabet",
+		"nombre": "Alfabeto croata"
+	},
+	"Q829464": {
+		"name": "Serbian Cyrillic alphabet",
+		"nombre": "Alfabeto cirílico serbio"
+	},
+	"Q20581324": {
+		"name": "Breton alphabet",
+		"nombre": "Alfabeto bretón"
+	},
+	"Q83828": {
+		"name": "Ethnic groups in Indonesia"
+	},
+	"Q164436": {
+		"name": "Bulgarian alphabet",
+		"nombre": "Alfabeto búlgaro"
+	},
+	"Q2226591": {
+		"name": "Bulgarian Braille"
+	},
+	"Q1055705": {
+		"name": "Mongolian script",
+		"nombre": "Alfabeto mongol tradicional"
+	},
+	"Q2948092": {
+		"name": "Vagindra script"
+	},
+	"Q7423311": {
+		"name": "Isolating language",
+		"nombre": "Lengua aislante"
+	},
+	"Q3827": {
+		"name": "Maluku Islands",
+		"nombre": "Islas Molucas"
+	},
+	"Q36747": {
+		"name": "Indigenous peoples of America",
+		"nombre": "Indígenas de América"
+	},
+	"Q2472605": {
+		"name": "Written Cantonese",
+		"nombre": "Cantonés escrito"
+	},
+	"Q13586477": {
+		"name": "Cantonese Braille"
+	},
+	"Q610822": {
+		"name": "Catalan alphabet",
+		"nombre": "Alfabeto catalán"
+	},
+	"Q748149": {
+		"name": "Prefecture-level city",
+		"nombre": "Ciudad-prefectura"
+	},
+	"Q1637706": {
+		"name": "City with millions of inhabitants",
+		"nombre": "Ciudad con más de un millón de habitantes"
+	},
+	"Q3117863": {
+		"name": "Isolated human group",
+		"nombre": "Grupo humano aislado"
+	},
+	"Q720454": {
+		"name": "Chechen writing"
+	},
+	"Q510023": {
+		"name": "Paiute people",
+		"nombre": "Paiute"
+	},
+	"Q10375435": {
+		"name": "Syllable-timed"
+	},
+	"Q259575": {
+		"name": "Chuvash alphabet"
+	},
+	"Q1755154": {
+		"name": "Coast Salish peoples",
+		"nombre": "Salish"
+	},
+	"Q839470": {
+		"name": "Sacred language",
+		"nombre": "Lengua litúrgica"
+	},
+	"Q321083": {
+		"name": "Coptic alphabet",
+		"nombre": "Alfabeto copto"
+	},
+	"Q27956191": {
+		"name": "Muscogee alphabet"
+	},
+	"Q55983715": {
+		"name": "Polyphyletic common name",
+		"nombre": "Grupo de organismos conocidos por un nombre común particular"
+	},
+	"Q583827": {
+		"name": "Friction drum",
+		"nombre": "Zambomba"
+	},
+	"Q2472587": {
+		"name": "People",
+		"nombre": "Pueblo"
+	},
+	"Q122888": {
+		"name": "Manchu alphabet",
+		"nombre": "Alfabeto manchú"
+	},
+	"Q23012917": {
+		"name": "Village of Burkina Faso"
+	},
+	"Q30016797": {
+		"name": "Arabic script based alphabet",
+		"nombre": "Alfabeto derivado del árabe"
+	},
+	"Q4155030": {
+		"name": "Dargin writing"
+	},
+	"Q1790144": {
+		"name": "Unit of time",
+		"nombre": "Unidad de tiempo"
+	},
+	"Q3268848": {
+		"name": "Non-SI unit mentioned in the SI"
+	},
+	"Q82047057": {
+		"name": "UCUM derived unit",
+		"nombre": "Unidad derivada en UCUM"
+	},
+	"Q186081": {
+		"name": "Time interval",
+		"nombre": "Intervalo de tiempo"
+	},
+	"Q23387": {
+		"name": "Week",
+		"nombre": "Semana"
+	},
+	"Q1610191": {
+		"name": "Athabaskan people"
+	},
+	"Q5551235": {
+		"name": "German Sign Language family"
+	},
+	"Q877906": {
+		"name": "Thaana",
+		"nombre": "Thaana"
+	},
+	"Q11424": {
+		"name": "Film",
+		"nombre": "Película"
+	},
+	"Q4204501": {
+		"name": "Historical ethnic group",
+		"nombre": "Grupo étnico histórico"
+	},
+	"Q1595408": {
+		"name": "Climatic health resort",
+		"nombre": "Centro turístico de salud climático"
+	},
+	"Q262166": {
+		"name": "Municipality of Germany",
+		"nombre": "Municipio de Alemania"
+	},
+	"Q83328": {
+		"name": "Turkic peoples",
+		"nombre": "Pueblos túrquicos"
+	},
+	"Q1234776": {
+		"name": "Dogon languages",
+		"nombre": "Lenguas dogón"
+	},
+	"Q2590631": {
+		"name": "Municipality of Hungary",
+		"nombre": "Municipio de Hungría"
+	},
+	"Q1752346": {
+		"name": "Assembly",
+		"nombre": "Asamblea"
+	},
+	"Q1530705": {
+		"name": "Village development committee of Nepal",
+		"nombre": "Comité de desarrollo de aldea"
+	},
+	"Q7806656": {
+		"name": "Time–manner–place",
+		"nombre": "Tiempo modo lugar"
+	},
+	"Q7200373": {
+		"name": "Place–manner–time",
+		"nombre": "Lugar modo tiempo"
+	},
+	"Q754673": {
+		"name": "English alphabet",
+		"nombre": "Alfabeto inglés"
+	},
+	"Q1970098": {
+		"name": "Shavian alphabet",
+		"nombre": "Alfabeto shaviano"
+	},
+	"Q17005381": {
+		"name": "Estonian Braille"
+	},
+	"Q17081208": {
+		"name": "Scandinavian Braille",
+		"nombre": "Braille escandinavo"
+	},
+	"Q1074": {
+		"name": "Skin",
+		"nombre": "Piel"
+	},
+	"Q629103": {
+		"name": "Animal product",
+		"nombre": "Producto animal"
+	},
+	"Q729": {
+		"name": "Animal",
+		"nombre": "Animal"
+	},
+	"Q5119": {
+		"name": "Capital",
+		"nombre": "Capital"
+	},
+	"Q3700011": {
+		"name": "Kecamatan",
+		"nombre": "Kecamatan"
+	},
+	"Q385967": {
+		"name": "African diaspora",
+		"nombre": "Diáspora africana"
+	},
+	"Q103817": {
+		"name": "Indigenous people",
+		"nombre": "Pueblo indígena"
+	},
+	"Q1022087": {
+		"name": "Kra languages",
+		"nombre": "Lenguas kra"
+	},
+	"Q1097949": {
+		"name": "Literary language",
+		"nombre": "Lengua literaria"
+	},
+	"Q161428": {
+		"name": "Georgian scripts",
+		"nombre": "Alfabetos georgianos"
+	},
+	"Q11300624": {
+		"name": "Georgian Braille"
+	},
+	"Q181767": {
+		"name": "Stress",
+		"nombre": "Acento prosódico"
+	},
+	"Q2095": {
+		"name": "Food",
+		"nombre": "Alimento"
+	},
+	"Q5098": {
+		"name": "Provinces of Indonesia",
+		"nombre": "Provincia de Indonesia"
+	},
+	"Q423343": {
+		"name": "Active–stative language",
+		"nombre": "Lengua activa-estativa"
+	},
+	"Q733944": {
+		"name": "Gujarati alphabet"
+	},
+	"Q42740": {
+		"name": "Han Chinese people",
+		"nombre": "Etnia han"
+	},
+	"Q26214208": {
+		"name": "Set of mythological Greek characters",
+		"nombre": "Clase de personajes de la mitología griega"
+	},
+	"Q6024707": {
+		"name": "Indigenous peoples of Arizona",
+		"nombre": "Indigenous peoples of Arizona"
+	},
+	"Q7840353": {
+		"name": "Native American tribe in the United States",
+		"nombre": "Tribu nativa de Estados Unidos"
+	},
+	"Q1110078": {
+		"name": "Hawaiian alphabet",
+		"nombre": "Alfabeto hawaiano"
+	},
+	"Q1738991": {
+		"name": "Index number",
+		"nombre": "Número índice"
+	},
+	"Q2587850": {
+		"name": "Wellbeing index",
+		"nombre": "Índice de bienestar"
+	},
+	"Q1441804": {
+		"name": "Pitch accent",
+		"nombre": "Acento tonal"
+	},
+	"Q79199": {
+		"name": "Varang Kshiti"
+	},
+	"Q1760127": {
+		"name": "Odia alphabet"
+	},
+	"Q570450": {
+		"name": "Telugu script",
+		"nombre": "Escritura telegu"
+	},
+	"Q12438487": {
+		"name": "Bengali–Assamese script"
+	},
+	"Q2630831": {
+		"name": "Supradialect",
+		"nombre": "Supradialecto"
+	},
+	"Q36495": {
+		"name": "Southern Min",
+		"nombre": "Chino min nan"
+	},
+	"Q4469739": {
+		"name": "Knotted record",
+		"nombre": "Escritura de nudos"
+	},
+	"Q3314452": {
+		"nombre": "Pueblos indígenas de México"
+	},
+	"Q935857": {
+		"name": "Hungarian alphabet",
+		"nombre": "Alfabeto húngaro"
+	},
+	"Q156631": {
+		"name": "Ugric languages",
+		"nombre": "Lenguas ugrias"
+	},
+	"Q372785": {
+		"name": "Icelandic alphabet",
+		"nombre": "Alfabeto islandés"
+	},
+	"Q35657": {
+		"name": "State of the United States",
+		"nombre": "Estado de los Estados Unidos"
+	},
+	"Q578170": {
+		"name": "Contiguous United States",
+		"nombre": "Estados Unidos continentales"
+	},
+	"Q4200298": {
+		"name": "District",
+		"nombre": "Distrito de Indonesia"
+	},
+	"Q17141330": {
+		"name": "Zero-marking language",
+		"nombre": "Marcaje nulo"
+	},
+	"Q16521": {
+		"name": "Taxon",
+		"nombre": "Taxón"
+	},
+	"Q33831": {
+		"name": "Pidgin",
+		"nombre": "Pidgin"
+	},
+	"Q184661": {
+		"name": "Ogham",
+		"nombre": "Ogámico"
+	},
+	"Q661936": {
+		"name": "Pro-drop language",
+		"nombre": "Lengua con omisión de sujeto"
+	},
+	"Q74835210": {
+		"name": "Noun-adjective"
+	},
+	"Q550383": {
+		"name": "Italian alphabet",
+		"nombre": "Alfabeto italiano"
+	},
+	"Q3217341": {
+		"name": "Moraic language",
+		"nombre": "Lengua moraica"
+	},
+	"Q82772": {
+		"name": "Kanji",
+		"nombre": "Kanji"
+	},
+	"Q187659": {
+		"name": "Kana",
+		"nombre": "Kana"
+	},
+	"Q82946": {
+		"name": "Katakana",
+		"nombre": "Katakana"
+	},
+	"Q48332": {
+		"name": "Hiragana",
+		"nombre": "Hiragana"
+	},
+	"Q116451": {
+		"name": "Pegon alphabet",
+		"nombre": "Escritura pegón"
+	},
+	"Q975802": {
+		"name": "Kawi script"
+	},
+	"Q879704": {
+		"name": "Javanese script"
+	},
+	"Q28163654": {
+		"name": "Javanese Latin alphabet"
+	},
+	"Q1994931": {
+		"name": "District of Malaysia",
+		"nombre": "Distrito de Malasia"
+	},
+	"Q912240": {
+		"name": "Jurchen script",
+		"nombre": "Escritura yurchen"
+	},
+	"Q4206602": {
+		"name": "Kabardian script"
+	},
+	"Q25448": {
+		"name": "Amazigh languages",
+		"nombre": "Lenguas bereberes"
+	},
+	"Q1208366": {
+		"name": "Dialect cluster",
+		"nombre": "Clúster dialectal"
+	},
+	"Q3217465": {
+		"name": "Kaili–Pamona languages"
+	},
+	"Q46429": {
+		"name": "Guaraní people",
+		"nombre": "Guaraníes"
+	},
+	"Q193104": {
+		"name": "Islamic philosophy",
+		"nombre": "Filosofía islámica"
+	},
+	"Q432": {
+		"name": "Islam",
+		"nombre": "Islam"
+	},
+	"Q529085": {
+		"name": "Clear script"
+	},
+	"Q178885": {
+		"name": "Deity",
+		"nombre": "Deidad"
+	},
+	"Q814158": {
+		"name": "Japanese mythology",
+		"nombre": "Mitología japonesa"
+	},
+	"Q2679157": {
+		"name": "Commune of Ivory Coast",
+		"nombre": "Comuna de Costa de Marfil"
+	},
+	"Q190502": {
+		"name": "Japanese writing system",
+		"nombre": "Escritura japonesa"
+	},
+	"Q182133": {
+		"name": "Syllabary",
+		"nombre": "Silabario"
+	},
+	"Q1198450": {
+		"name": "CJK"
+	},
+	"Q839666": {
+		"name": "Kannada alphabet",
+		"nombre": "Alfabeto canarés"
+	},
+	"Q6443044": {
+		"name": "Kulitan alphabet"
+	},
+	"Q1402592": {
+		"name": "Island group",
+		"nombre": "Grupo de islas"
+	},
+	"Q33513": {
+		"name": "Hebrew alphabet",
+		"nombre": "Alfabeto hebreo"
+	},
+	"Q147137": {
+		"name": "Vowel harmony",
+		"nombre": "Armonía vocálica"
+	},
+	"Q2047117": {
+		"name": "Śāradā script",
+		"nombre": "Alfabeto sharada"
+	},
+	"Q3915038": {
+		"name": "Village sign language"
+	},
+	"Q1815229": {
+		"name": "Lao alphabet",
+		"nombre": "Alfabeto laosiano"
+	},
+	"Q56436498": {
+		"name": "Village in India",
+		"nombre": "Villa de India"
+	},
+	"Q17006785": {
+		"name": "Kazakh Braille"
+	},
+	"Q1189816": {
+		"name": "Ethnic religion",
+		"nombre": "Religión étnica"
+	},
+	"Q388202": {
+		"name": "Afro-American religion",
+		"nombre": "Religiones afroamericanas"
+	},
+	"Q1086440": {
+		"name": "Yoruba religion",
+		"nombre": "Religión yoruba"
+	},
+	"Q4494892": {
+		"name": "Khakas alphabet"
+	},
+	"Q41975": {
+		"name": "Mongols",
+		"nombre": "Mongoles"
+	},
+	"Q1496967": {
+		"name": "Territorial entity",
+		"nombre": "Área"
+	},
+	"Q4469187": {
+		"name": "Ugric peoples"
+	},
+	"Q337657": {
+		"name": "Mon–Khmer languages",
+		"nombre": "Lenguas mon-jemer"
+	},
+	"Q286576": {
+		"name": "Register",
+		"nombre": "Registro lingüístico"
+	},
+	"Q1054190": {
+		"name": "Khmer alphabet"
+	},
+	"Q1075929": {
+		"name": "African people",
+		"nombre": "Africanos"
+	},
+	"Q17065279": {
+		"name": "Khowar alphabet"
+	},
+	"Q6256": {
+		"name": "Country",
+		"nombre": "País"
+	},
+	"Q3624078": {
+		"name": "Sovereign state",
+		"nombre": "Estado soberano"
+	},
+	"Q112099": {
+		"name": "Island nation",
+		"nombre": "País insular"
+	},
+	"Q3359409": {
+		"name": "Micronesia",
+		"nombre": "Micronesia"
+	},
+	"Q3803": {
+		"name": "Lesser Sunda Islands",
+		"nombre": "Islas menores de la Sonda"
+	},
+	"Q1164129": {
+		"name": "Malayalam script",
+		"nombre": "Alfabeto malabar"
+	},
+	"Q476647": {
+		"name": "Molodtsov alphabet"
+	},
+	"Q952057": {
+		"name": "Finno-Ugric peoples",
+		"nombre": "Pueblos ugrofineses"
+	},
+	"Q4022": {
+		"name": "River",
+		"nombre": "Río"
+	},
+	"Q8222": {
+		"name": "Hangul",
+		"nombre": "Hangul"
+	},
+	"Q485619": {
+		"name": "Hanja",
+		"nombre": "Hanja"
+	},
+	"Q21640562": {
+		"name": "Kolyak alphabet"
+	},
+	"Q4247037": {
+		"name": "Kumyk alphabet"
+	},
+	"Q4459822": {
+		"name": "Tolong Siki alphabet"
+	},
+	"Q82794": {
+		"name": "Geographic region",
+		"nombre": "Región geográfica"
+	},
+	"Q1639634": {
+		"name": "Local Government area of Lagos State",
+		"nombre": "Área de gobierno local de Nigeria"
+	},
+	"Q155239": {
+		"name": "Indian reserve"
+	},
+	"Q46861": {
+		"name": "Tibetan alphabet",
+		"nombre": "Alfabeto tibetano"
+	},
+	"Q4253343": {
+		"name": "Lak script"
+	},
+	"Q8201": {
+		"name": "Chinese characters",
+		"nombre": "Caracteres chinos"
+	},
+	"Q2225692": {
+		"name": "Fourth-level administrative division in Indonesia",
+		"nombre": "Aldea de Indonesia"
+	},
+	"Q4925633": {
+		"name": "Register"
+	},
+	"Q1193493": {
+		"name": "Latvian alphabet",
+		"nombre": "Alfabeto letón"
+	},
+	"Q3957": {
+		"name": "Town",
+		"nombre": "Villa"
+	},
+	"Q2051651": {
+		"name": "Cut of beef"
+	},
+	"Q1481626": {
+		"name": "Lepcha alphabet"
+	},
+	"Q806234": {
+		"name": "Banda languages"
+	},
+	"Q17110426": {
+		"name": "Zambian Braille"
+	},
+	"Q1314503": {
+		"name": "Tai Tham alphabet"
+	},
+	"Q3498863": {
+		"name": "New Tai Lue alphabet"
+	},
+	"Q236376": {
+		"name": "Thai alphabet",
+		"nombre": "Alfabeto tailandés"
+	},
+	"Q2566326": {
+		"name": "Tai Le alphabet",
+		"nombre": "Taï-le"
+	},
+	"Q664262": {
+		"name": "Nilotic peoples",
+		"nombre": "Nilótico"
+	},
+	"Q74834637": {
+		"name": "Adjective-noun"
+	},
+	"Q2092163": {
+		"name": "Macedonian alphabet",
+		"nombre": "Alfabeto macedonio"
+	},
+	"Q215380": {
+		"name": "Musical group",
+		"nombre": "Grupo musical"
+	},
+	"Q216353": {
+		"name": "Title",
+		"nombre": "Título"
+	},
+	"Q177826": {
+		"name": "Clergy",
+		"nombre": "Clero"
+	},
+	"Q18360219": {
+		"name": "Tirhuta"
+	},
+	"Q1253814": {
+		"name": "Kaithi"
+	},
+	"Q12479774": {
+		"name": "Second-level administrative country subdivision in Indonesia"
+	},
+	"Q13220204": {
+		"name": "Second-level administrative country subdivision",
+		"nombre": "Subdivisión administrativa de segundo nivel"
+	},
+	"Q576484": {
+		"name": "Sorabe alphabet",
+		"nombre": "Alfabeto Sorabe"
+	},
+	"Q2673515": {
+		"name": "Malay alphabet",
+		"nombre": "Alfabeto malayo"
+	},
+	"Q83942": {
+		"name": "Jawi alphabet",
+		"nombre": "Jawi"
+	},
+	"Q123480": {
+		"name": "Landlocked country",
+		"nombre": "Estado sin litoral"
+	},
+	"Q4412": {
+		"name": "West Africa",
+		"nombre": "África occidental"
+	},
+	"Q6744782": {
+		"name": "Maltese Braille"
+	},
+	"Q8502": {
+		"name": "Mountain",
+		"nombre": "Montaña"
+	},
+	"Q868179": {
+		"name": "Tungusic peoples",
+		"nombre": "Pueblos tunguses"
+	},
+	"Q1074947": {
+		"name": "Lontara alphabet"
+	},
+	"Q315": {
+		"name": "Language",
+		"nombre": "Lenguaje"
+	},
+	"Q7850": {
+		"name": "Chinese",
+		"nombre": "Chino"
+	},
+	"Q14712": {
+		"name": "Drupe",
+		"nombre": "Drupa"
+	},
+	"Q3314483": {
+		"name": "Fruit",
+		"nombre": "Fruta"
+	},
+	"Q159683": {
+		"name": "Citric acid",
+		"nombre": "Ácido cítrico"
+	},
+	"Q4280596": {
+		"name": "Mansi alphabet"
+	},
+	"Q21662393": {
+		"name": "Māori writing system"
+	},
+	"Q1703713": {
+		"name": "Modi alphabet"
+	},
+	"Q29414133": {
+		"name": "Communities of Cyprus Republic",
+		"nombre": "Villa de Chipre"
+	},
+	"Q59147": {
+		"name": "Nicosia District",
+		"nombre": "Nicosia"
+	},
+	"Q33837": {
+		"name": "Archipelago",
+		"nombre": "Archipiélago"
+	},
+	"Q35942": {
+		"name": "Polynesia",
+		"nombre": "Polinesia"
+	},
+	"Q178024": {
+		"name": "Dough",
+		"nombre": "Masa"
+	},
+	"Q41067667": {
+		"name": "Municipality of Tunisia"
+	},
+	"Q3273292": {
+		"name": "Professional degree",
+		"nombre": "Primer grado profesional"
+	},
+	"Q183816": {
+		"name": "Master's degree",
+		"nombre": "Maestría"
+	},
+	"Q2306813": {
+		"name": "Department of Cameroon",
+		"nombre": "Departamentos de Camerún"
+	},
+	"Q33694": {
+		"name": "Mixed language",
+		"nombre": "Lengua mixta"
+	},
+	"Q2981413": {
+		"name": "Meitei script"
+	},
+	"Q951069": {
+		"name": "Mende script",
+		"nombre": "Silabario Ki-ka-ku"
+	},
+	"Q2465268": {
+		"name": "Mi'kmaq hieroglyphic writing",
+		"nombre": "Jeroglíficos Micmac"
+	},
+	"Q202390": {
+		"name": "Pre-Columbian era",
+		"nombre": "América precolombina"
+	},
+	"Q465299": {
+		"name": "Archaeological culture",
+		"nombre": "Cultura arqueológica"
+	},
+	"Q1095058": {
+		"name": "Romanian alphabet",
+		"nombre": "Alfabeto rumano"
+	},
+	"Q570411": {
+		"name": "Moldovan Cyrillic alphabet",
+		"nombre": "Alfabeto cirílico moldavo"
+	},
+	"Q727635": {
+		"name": "Romanian Cyrillic alphabet",
+		"nombre": "Alfabeto cirílico rumano"
+	},
+	"Q10648343": {
+		"name": "Duo",
+		"nombre": "Dúo profesional"
+	},
+	"Q4301931": {
+		"name": "Mon script"
+	},
+	"Q82048": {
+		"name": "Lenape",
+		"nombre": "Lenape"
+	},
+	"Q2533461": {
+		"name": "Autonomous administrative territorial entity",
+		"nombre": "Territorio autónomo"
+	},
+	"Q1401458": {
+		"name": "St Matthias Islands",
+		"nombre": "Islas San Matías"
+	},
+	"Q15061978": {},
+	"Q3064474": {
+		"name": "Province of Fiji",
+		"nombre": "Provincia de Fiyi"
+	},
+	"Q4312795": {
+		"name": "Nanai alphabet"
+	},
+	"Q42523": {
+		"name": "Atoll",
+		"nombre": "Atolón"
+	},
+	"Q59369306": {
+		"name": "Council of Tuvalu"
+	},
+	"Q382019": {
+		"name": "Afaka syllabary"
+	},
+	"Q33302": {
+		"name": "French Sign Language",
+		"nombre": "Lengua de señas francesa"
+	},
+	"Q19604693": {
+		"name": "Nenets alphabet"
+	},
+	"Q1161185": {
+		"name": "High island",
+		"nombre": "Isla volcánica"
+	},
+	"Q1200954": {
+		"name": "Niuas",
+		"nombre": "Grupo Niuas"
+	},
+	"Q4318493": {
+		"name": "Nivkh alphabet"
+	},
+	"Q12737077": {
+		"name": "Occupation",
+		"nombre": "Ocupación"
+	},
+	"Q32090": {
+		"name": "Lifestyle",
+		"nombre": "Estilo de vida"
+	},
+	"Q215627": {
+		"name": "Person",
+		"nombre": "Persona"
+	},
+	"Q186408": {
+		"name": "Point in time",
+		"nombre": "Punto del tiempo"
+	},
+	"Q14214568": {
+		"name": "Eastern Nebraska"
+	},
+	"Q21199": {
+		"name": "Natural number",
+		"nombre": "Número natural"
+	},
+	"Q2313686": {
+		"name": "Automorphic number",
+		"nombre": "Número automorfo"
+	},
+	"Q63116": {
+		"name": "Numeral",
+		"nombre": "Numeral"
+	},
+	"Q13366129": {
+		"name": "Odd number",
+		"nombre": "Número impar"
+	},
+	"Q245102": {
+		"name": "Triangular number",
+		"nombre": "Número triangular"
+	},
+	"Q190890": {
+		"name": "Centered triangular number",
+		"nombre": "Número triangular centrado"
+	},
+	"Q50705": {
+		"name": "Square number",
+		"nombre": "Cuadrado perfecto"
+	},
+	"Q861555": {
+		"name": "Cube",
+		"nombre": "Cubo"
+	},
+	"Q190893": {
+		"name": "Centered cube number"
+	},
+	"Q1587812": {
+		"name": "Centered decagonal number"
+	},
+	"Q14390508": {
+		"name": "Centered dodecahedral number"
+	},
+	"Q940343": {
+		"name": "Centered heptagonal number"
+	},
+	"Q190899": {
+		"name": "Centered hexagonal number"
+	},
+	"Q14390666": {
+		"name": "Centered icosahedral number",
+		"nombre": "Número icosaedral centrado"
+	},
+	"Q1587799": {
+		"name": "Centered nonagonal number",
+		"nombre": "Número eneagonal centrado"
+	},
+	"Q1589528": {
+		"name": "Centered octagonal number",
+		"nombre": "Número octogonal centrado"
+	},
+	"Q14390354": {
+		"name": "Centered octahedral number"
+	},
+	"Q16858648": {
+		"name": "Centered pentachoric number",
+		"nombre": "Nombre pentacórico centrado"
+	},
+	"Q190891": {
+		"name": "Centered pentagonal number",
+		"nombre": "Número pentagonal centrado"
+	},
+	"Q190900": {
+		"name": "Centered square number"
+	},
+	"Q14390192": {
+		"name": "Centered tetrahedral number"
+	},
+	"Q13825533": {
+		"name": "Dodecahedral number"
+	},
+	"Q663029": {
+		"name": "Decagonal number",
+		"nombre": "Número decagonal"
+	},
+	"Q1081248": {
+		"name": "Dodecagonal number",
+		"nombre": "Número dodecagonal"
+	},
+	"Q967999": {
+		"name": "Heptagonal number",
+		"nombre": "Número heptagonal"
+	},
+	"Q606977": {
+		"name": "Heptagonal pyramidal number"
+	},
+	"Q1165838": {
+		"name": "Hexagonal number",
+		"nombre": "Número hexagonal"
+	},
+	"Q1990975": {
+		"name": "Hexagonal pyramidal number"
+	},
+	"Q13823786": {
+		"name": "Icosahedral number",
+		"nombre": "Número icosaedral"
+	},
+	"Q2702442": {
+		"name": "Nonagonal number",
+		"nombre": "Número eneagonal"
+	},
+	"Q2634498": {
+		"name": "Octagonal number",
+		"nombre": "Número octogonal"
+	},
+	"Q674928": {
+		"name": "Pentagonal number",
+		"nombre": "Número pentagonal"
+	},
+	"Q2708903": {
+		"name": "Pentagonal pyramidal number",
+		"nombre": "Número piramidal pentagonal"
+	},
+	"Q1403502": {
+		"name": "Pentatope number",
+		"nombre": "Número pentatópico"
+	},
+	"Q18949": {
+		"name": "Square pyramidal number",
+		"nombre": "Número piramidal cuadrado"
+	},
+	"Q1885380": {
+		"name": "Square triangular number",
+		"nombre": "Número cuadrado triangular"
+	},
+	"Q2524197": {
+		"name": "Star number",
+		"nombre": "Número estrellado"
+	},
+	"Q3879425": {
+		"name": "Stella octangula number"
+	},
+	"Q975166": {
+		"name": "Tetrahedral number",
+		"nombre": "Número tetraédrico"
+	},
+	"Q47577": {
+		"name": "Fibonacci number",
+		"nombre": "Número de Fibonacci"
+	},
+	"Q1136880": {
+		"name": "Power of two",
+		"nombre": "Potencia de dos"
+	},
+	"Q184611": {
+		"name": "Power of 10",
+		"nombre": "Potencia de diez"
+	},
+	"Q41068772": {
+		"name": "Power of 1000",
+		"nombre": "Potencia de mil"
+	},
+	"Q2198779": {
+		"name": "Unit"
+	},
+	"Q28920052": {
+		"name": "Non-negative integer",
+		"nombre": "Número entero no negativo"
+	},
+	"Q840676": {
+		"name": "Fourth power",
+		"nombre": "Cuarta potencia"
+	},
+	"Q10549775": {
+		"name": "5th power",
+		"nombre": "Quinta potencia"
+	},
+	"Q37947496": {
+		"name": "Sixth power",
+		"nombre": "Sexta potencia"
+	},
+	"Q37947505": {
+		"name": "Seventh power",
+		"nombre": "Séptima potencia"
+	},
+	"Q10338607": {
+		"name": "Mersenne number",
+		"nombre": "Número de Mersenne"
+	},
+	"Q1199125": {
+		"name": "Repunit",
+		"nombre": "Repunit"
+	},
+	"Q68019776": {
+		"name": "Multiplicative identity"
+	},
+	"Q69197847": {
+		"name": "Coherent SI unit",
+		"nombre": "Unidad coherente del SI"
+	},
+	"Q1618549": {
+		"name": "Dimensionless unit",
+		"nombre": "Unidad auxiliar"
+	},
+	"Q31835962": {
+		"name": "Indigenous people of Asia"
+	},
+	"Q3320659": {
+		"name": "Southern Mongolian"
+	},
+	"Q482994": {
+		"name": "Album",
+		"nombre": "Álbum"
+	},
+	"Q7105529": {
+		"name": "Osage alphabet"
+	},
+	"Q4337657": {
+		"name": "Ossetian Cyrillic alphabet"
+	},
+	"Q41670": {
+		"name": "Latin alphabet",
+		"nombre": "Alfabeto latino"
+	},
+	"Q2391173": {
+		"name": "Palaungic languages",
+		"nombre": "Lenguas paláunguicas"
+	},
+	"Q24746": {
+		"name": "Province of the Philippines",
+		"nombre": "Provincia de Filipinas"
+	},
+	"Q133800": {
+		"name": "Shahmukhī alphabet",
+		"nombre": "Alfabeto shahmuji"
+	},
+	"Q689894": {
+		"name": "Gurmukhi",
+		"nombre": "Gurmukhi"
+	},
+	"Q50198": {
+		"name": "Province of Thailand",
+		"nombre": "Provincia de Tailandia"
+	},
+	"Q744299": {
+		"name": "Indigenous peoples of California",
+		"nombre": "Pueblos indígenas de California"
+	},
+	"Q22988604": {
+		"name": "Mythological Greek character",
+		"nombre": "Personaje de la mitología griega"
+	},
+	"Q148966": {
+		"name": "Solomon Islands",
+		"nombre": "Archipiélago de las islas Salomón"
+	},
+	"Q540987": {
+		"name": "Portuguese alphabet",
+		"nombre": "Alfabeto portugués"
+	},
+	"Q3348605": {
+		"name": "Southern Occitan",
+		"nombre": "Occitano meridional"
+	},
+	"Q15284": {
+		"name": "Municipality",
+		"nombre": "Municipio"
+	},
+	"Q33956": {
+		"name": "Unclassified language",
+		"nombre": "Lengua no clasificada"
+	},
+	"Q31841842": {
+		"name": "Putos Point"
+	},
+	"Q20202269": {
+		"name": "Music term",
+		"nombre": "Terminología musical"
+	},
+	"Q731978": {
+		"name": "Mode",
+		"nombre": "Modo"
+	},
+	"Q979507": {
+		"name": "Hindu deity",
+		"nombre": "Divinidad hindú"
+	},
+	"Q55607025": {
+		"name": "Characters in the Ramayana"
+	},
+	"Q4830453": {
+		"name": "Business",
+		"nombre": "Negocio"
+	},
+	"Q55190325": {
+		"name": "Musical instrument manufacturing company"
+	},
+	"Q6881511": {
+		"name": "Enterprise",
+		"nombre": "Empresa"
+	},
+	"Q2688167": {
+		"name": "Indian bread",
+		"nombre": "Pan indio"
+	},
+	"Q666242": {
+		"name": "Flatbread",
+		"nombre": "Pan plano"
+	},
+	"Q746549": {
+		"name": "Dish",
+		"nombre": "Plato"
+	},
+	"Q5702275": {
+		"name": "Unleavened bread",
+		"nombre": "Pan sin levadura"
+	},
+	"Q48731366": {
+		"name": "Pakistani bread"
+	},
+	"Q7889": {
+		"name": "Video game",
+		"nombre": "Videojuego"
+	},
+	"Q2309250": {
+		"name": "Meeussen's rule"
+	},
+	"Q4118383": {
+		"name": "Consonant harmony",
+		"nombre": "Armonía consonántica"
+	},
+	"Q187846": {
+		"name": "Russian alphabet",
+		"nombre": "Alfabeto ruso"
+	},
+	"Q36444": {
+		"name": "North Straits Salish language"
+	},
+	"Q4271324": {
+		"name": "Mythical character",
+		"nombre": "Personaje mítico"
+	},
+	"Q5464477": {
+		"name": "Folk saint",
+		"nombre": "Santo popular"
+	},
+	"Q4686758": {
+		"name": "Advertising character",
+		"nombre": "Personaje publicitario"
+	},
+	"Q717040": {
+		"name": "Christmas tradition",
+		"nombre": "Tradición navideña"
+	},
+	"Q3658341": {
+		"name": "Literary character",
+		"nombre": "Personaje literario"
+	},
+	"Q15773347": {
+		"name": "Film character",
+		"nombre": "Personaje cinematográfico"
+	},
+	"Q1114461": {
+		"name": "Comics character",
+		"nombre": "Personaje de cómic"
+	},
+	"Q15711870": {
+		"name": "Animated character",
+		"nombre": "Personaje animado"
+	},
+	"Q201688": {
+		"name": "Ol Chiki alphabet"
+	},
+	"Q15059730": {},
+	"Q56932": {
+		"name": "Kalenjin people",
+		"nombre": "Pueblo kalenjin"
+	},
+	"Q913624": {
+		"name": "Tanimbar Islands",
+		"nombre": "Islas Tanimbar"
+	},
+	"Q4413984": {
+		"name": "Selkup alphabet"
+	},
+	"Q2627975": {
+		"name": "Ceremony",
+		"nombre": "Ceremonia"
+	},
+	"Q749720": {
+		"name": "Tai languages",
+		"nombre": "Lenguas tai"
+	},
+	"Q4520090": {
+		"name": "Tai Pong alphabet"
+	},
+	"Q3492": {
+		"name": "Sumatra",
+		"nombre": "Sumatra"
+	},
+	"Q1574992": {
+		"name": "Sinhala script"
+	},
+	"Q132781": {
+		"name": "Torture",
+		"nombre": "Tortura"
+	},
+	"Q3505845": {
+		"name": "State",
+		"nombre": "Estado"
+	},
+	"Q10274273": {},
+	"Q4770873": {
+		"name": "Dene",
+		"nombre": "Dene"
+	},
+	"Q26986": {
+		"name": "Na-Dene languages",
+		"nombre": "Lenguas na-dené"
+	},
+	"Q17020242": {
+		"name": "Somali alphabets"
+	},
+	"Q15092344": {
+		"name": "Urban settlement defined by Statistics Norway",
+		"nombre": "Área urbana en Noruega"
+	},
+	"Q7563292": {
+		"name": "Sorang Sompeng alphabet"
+	},
+	"Q941501": {
+		"name": "Language group",
+		"nombre": "Grupo de lenguas"
+	},
+	"Q285126": {
+		"name": "Spanish alphabet",
+		"nombre": "Alfabeto español"
+	},
+	"Q80839": {
+		"name": "Lingua franca",
+		"nombre": "Lengua vehicular"
+	},
+	"Q1127200": {
+		"name": "Louisiade Archipelago",
+		"nombre": "Archipiélago de las Luisiadas"
+	},
+	"Q752854": {
+		"name": "Sui script"
+	},
+	"Q51589": {
+		"name": "Sundanese script",
+		"nombre": "Alfabeto sundanés"
+	},
+	"Q2352347": {
+		"name": "Swedish alphabet",
+		"nombre": "Alfabeto sueco"
+	},
+	"Q55723166": {
+		"name": "Separate bowl drums"
+	},
+	"Q278446": {
+		"name": "Filipino alphabet",
+		"nombre": "Alfabeto filipino"
+	},
+	"Q2639681": {
+		"name": "Abakada alphabet",
+		"nombre": "Alfabeto abakada"
+	},
+	"Q17054819": {
+		"name": "Philippine Braille"
+	},
+	"Q812124": {
+		"name": "Baybayin",
+		"nombre": "Baybayin"
+	},
+	"Q335214": {
+		"name": "Endangered language",
+		"nombre": "Lengua amenazada"
+	},
+	"Q2311554": {
+		"name": "Tajik alphabet"
+	},
+	"Q3191695": {
+		"name": "Regency of Indonesia",
+		"nombre": "Kabupaten"
+	},
+	"Q208503": {
+		"name": "Tifinagh",
+		"nombre": "Tifinag"
+	},
+	"Q1992000": {
+		"name": "Vatteluttu alphabet"
+	},
+	"Q6427218": {
+		"name": "Kolezhuthu"
+	},
+	"Q396108": {
+		"name": "Agrarian society",
+		"nombre": "Sociedad agraria"
+	},
+	"Q5852411": {
+		"name": "State of Australia",
+		"nombre": "Estado de Australia"
+	},
+	"Q408": {
+		"name": "Australia",
+		"nombre": "Australia"
+	},
+	"Q3512539": {
+		"name": "Kipchak–Bolgar",
+		"nombre": "Lenguas Kypchak-Bolgar"
+	},
+	"Q3685463": {
+		"name": "Corregimiento",
+		"nombre": "Corregimiento de Panamá"
+	},
+	"Q7706995": {
+		"name": "Tetum alphabet"
+	},
+	"Q1815205": {
+		"name": "Ticuna",
+		"nombre": "Ticuna"
+	},
+	"Q55768605": {
+		"name": "Bamenda"
+	},
+	"Q6617741": {
+		"name": "WWF ecoregion",
+		"nombre": "Ecorregión del WWF"
+	},
+	"Q15060436": {},
+	"Q3960": {
+		"name": "Australia",
+		"nombre": "Australia"
+	},
+	"Q43229": {
+		"name": "Organization",
+		"nombre": "Organización"
+	},
+	"Q3257686": {
+		"name": "Locality",
+		"nombre": "Localidad"
+	},
+	"Q2604990": {
+		"name": "Tulu alphabet"
+	},
+	"Q34070": {
+		"name": "Tupian languages",
+		"nombre": "Lenguas tupíes"
+	},
+	"Q637405": {
+		"name": "Turkish alphabet",
+		"nombre": "Alfabeto turco"
+	},
+	"Q543617": {
+		"name": "Turkmen alphabet",
+		"nombre": "Alfabeto turcomano"
+	},
+	"Q3399601": {
+		"name": "Russian Braille"
+	},
+	"Q25390415": {},
+	"Q4469458": {
+		"name": "Udmurt writing"
+	},
+	"Q209468": {
+		"name": "Urdu alphabet",
+		"nombre": "Alfabeto urdu"
+	},
+	"Q8216": {
+		"name": "Greek alphabet",
+		"nombre": "Alfabeto griego"
+	},
+	"Q3024240": {
+		"name": "Historical country",
+		"nombre": "Estado desaparecido"
+	},
+	"Q523078": {
+		"name": "Vai syllabary",
+		"nombre": "Silabario vai"
+	},
+	"Q494511": {
+		"name": "Devi",
+		"nombre": "Deví"
+	},
+	"Q18669740": {
+		"name": "South African bantustan",
+		"nombre": "Bantustán de Sudáfrica"
+	},
+	"Q4107342": {
+		"name": "Veps alphabet"
+	},
+	"Q622712": {
+		"name": "Vietnamese alphabet",
+		"nombre": "Alfabeto vietnamita"
+	},
+	"Q875344": {
+		"name": "Chữ Nôm",
+		"nombre": "Chữ Nôm"
+	},
+	"Q1140801": {
+		"name": "Vietnamese Braille"
+	},
+	"Q128285": {
+		"name": "Norse mythology",
+		"nombre": "Mitología nórdica"
+	},
+	"Q45242174": {
+		"name": "Gazetted locality of Victoria"
+	},
+	"Q2137251": {
+		"name": "Rowing and canoeing venue",
+		"nombre": "Pista de remo y piragüismo"
+	},
+	"Q3215290": {
+		"name": "Artificial lake",
+		"nombre": "Lago artificial"
+	},
+	"Q2491829": {
+		"name": "Wolofal script"
+	},
+	"Q35127": {
+		"name": "Website",
+		"nombre": "Sitio web"
+	},
+	"Q250811": {
+		"name": "Sub-province-level division",
+		"nombre": "Ciudad-subprovincia"
+	},
+	"Q846875": {
+		"name": "Sakha scripts"
+	},
+	"Q1916821": {
+		"name": "Water deity",
+		"nombre": "Deidad acuática"
+	},
+	"Q34249": {
+		"name": "Yokutsan languages",
+		"nombre": "Lenguas yokuts"
+	},
+	"Q1197646": {
+		"name": "Yi script"
+	},
+	"Q3944022": {
+		"name": "Zazaki alphabet"
+	},
+	"Q436240": {
+		"name": "Ancient language",
+		"nombre": "Lengua antigua"
+	},
+	"Q20671156": {
+		"name": "Languages of a geographic region",
+		"nombre": "Lenguas de una región geográfica"
+	},
+	"Q496250": {
+		"name": "Languages of France",
+		"nombre": "Lenguas de Francia"
+	},
+	"Q25393579": {},
+	"Q131339": {
+		"name": "Alemannic German",
+		"nombre": "Alemánico"
+	},
+	"Q33255": {
+		"name": "Chukotko-Kamchatkan languages",
+		"nombre": "Lenguas chucoto-camchatcas"
+	},
+	"Q949344": {
+		"name": "Macrofamily",
+		"nombre": "Macrofamilia"
+	},
+	"Q250858": {
+		"name": "Pluricentric language",
+		"nombre": "Lengua pluricéntrica"
+	},
+	"Q28923954": {
+		"name": "Languoid class"
+	},
+	"Q7033959": {
+		"name": "Yue Chinese",
+		"nombre": "Cantonés"
+	},
+	"Q55958305": {
+		"name": "Languages of a country"
+	},
+	"Q24238356": {
+		"name": "Unknown",
+		"nombre": "Desconocido"
+	},
+	"Q188519": {
+		"name": "Demotic",
+		"nombre": "Egipcio demótico"
+	},
+	"Q132659": {
+		"name": "Egyptian hieroglyphs",
+		"nombre": "Jeroglífico egipcio"
+	},
+	"Q208111": {
+		"name": "Hieratic",
+		"nombre": "Escritura hierática"
+	},
+	"Q1133121": {
+		"name": "Nastaʿlīq script"
+	},
+	"Q11820611": {
+		"name": "Language subfamily"
+	},
+	"Q147899": {
+		"name": "Old Permic alphabet"
+	},
+	"Q68000514": {
+		"name": "Gondi–Kui"
+	},
+	"Q467037": {
+		"name": "Brahmic scripts",
+		"nombre": "Alfabetos bráhmicos"
+	},
+	"Q2218127": {
+		"name": "Tibetan Braille"
+	},
+	"Q16173659": {},
+	"Q151885": {
+		"name": "Concept",
+		"nombre": "Concepto"
+	},
+	"Q67983978": {
+		"name": "Tamil–Kodagu"
+	},
+	"Q184377": {
+		"name": "Pronunciation",
+		"nombre": "Pronunciación"
+	},
+	"Q6499736": {
+		"name": "Vocabulary",
+		"nombre": "Vocabulario"
+	},
+	"Q103808": {
+		"name": "Loanword",
+		"nombre": "Préstamo lingüístico"
+	},
+	"Q178528": {
+		"name": "Traditional Chinese characters",
+		"nombre": "Caracteres chinos tradicionales"
+	},
+	"Q185614": {
+		"name": "Simplified Chinese characters",
+		"nombre": "Caracteres chinos simplificados"
+	},
+	"Q11042": {
+		"name": "Culture",
+		"nombre": "Cultura"
+	},
+	"Q20829075": {
+		"name": "Type of language"
+	},
+	"Q67917754": {
+		"name": "Tamil–Kodagu"
+	},
+	"Q27020041": {
+		"name": "Sports season",
+		"nombre": "Temporada deportiva"
+	},
+	"Q1066689": {
+		"name": "Human communication",
+		"nombre": "Antroposemiótica"
+	},
+	"Q11024": {
+		"name": "Communication",
+		"nombre": "Comunicación"
+	},
+	"Q7184903": {
+		"name": "Abstract object",
+		"nombre": "Objeto abstracto"
+	}
+}
