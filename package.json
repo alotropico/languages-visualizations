@@ -48,7 +48,7 @@
     "write-file-webpack-plugin": "^4.5.1"
   },
   "dependencies": {
-    "d3": "^5.15.0",
+    "d3": "^7.6.1",
     "d3-force": "^2.0.1",
     "jquery": "^3.4.1"
   }
